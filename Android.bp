@@ -15,7 +15,7 @@
 //
 
 android_library {
-    name: "org.pixelexperience.settings.resources",
+    name: "cn.arsenals.os.settings.resources",
     defaults: [
         "SettingsLibDefaults",
     ],
